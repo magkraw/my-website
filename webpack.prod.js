@@ -7,7 +7,7 @@ module.exports = merge(config, {
   module: {
     rules: [
       {
-        test: /\.scss$/,
+        test: /\.(css|scss)$/,
         use: ExtractTextPlugin.extract({
           fallback: 'style-loader',
           use: [
