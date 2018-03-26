@@ -13,7 +13,12 @@ module.exports = merge(config, {
         use: ExtractTextPlugin.extract({
           fallback: 'style-loader',
           use: [
-            'css-loader',
+            {
+              loader: 'css-loader',
+              options: {
+                url: false,
+              },
+            },
             'postcss-loader',
             'sass-loader'
           ]

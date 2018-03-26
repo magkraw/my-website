@@ -145,7 +145,7 @@ body {
   }
 
   &__photo {
-    background-image: url('photo/jumbotron.jpeg');
+    background-image: url('../photo/jumbotron.jpeg');
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -366,73 +366,73 @@ body {
 
   &--react {
     &:before {
-      background-image: url('logo/react.svg');
+      background-image: url('../logo/react.svg');
     }
   }
 
   &--js {
     &:before {
-      background-image: url('logo/javascript.svg');
+      background-image: url('../logo/javascript.svg');
     }
   }
 
   &--jquery {
     &:before {
-      background-image: url('logo/jquery.svg');
+      background-image: url('../logo/jquery.svg');
     }
   }
 
   &--webpack {
     &:before {
-      background-image: url('logo/webpack.svg');
+      background-image: url('../logo/webpack.svg');
     }
   }
 
   &--mongodb {
     &:before {
-      background-image: url('logo/mongodb.svg');
+      background-image: url('../logo/mongodb.svg');
     }
   }
 
   &--git {
     &:before {
-      background-image: url('logo/git-icon.svg');
+      background-image: url('../logo/git-icon.svg');
     }
   }
 
   &--node {
     &:before {
-      background-image: url('logo/nodejs-icon.svg');
+      background-image: url('../logo/nodejs-icon.svg');
     }
   }
 
   &--html {
     &:before {
-      background-image: url('logo/html-5.svg');
+      background-image: url('../logo/html-5.svg');
     }
   }
 
   &--css {
     &:before {
-      background-image: url('logo/css-3.svg');
+      background-image: url('../logo/css-3.svg');
     }
   }
 
   &--sass {
     &:before {
-      background-image: url('logo/sass.svg');
+      background-image: url('../logo/sass.svg');
     }
   }
 
   &--bem {
     &:before {
-      background-image: url('logo/bem.svg');
+      background-image: url('../logo/bem.svg');
     }
   }
 
   &--bootstrap {
     &:before {
-      background-image: url('logo/bootstrap.svg');
+      background-image: url('../logo/bootstrap.svg');
     }
   }
 }
