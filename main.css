@@ -423,7 +423,7 @@ body {
     width: 77%;
     z-index: 1; }
   .jumbotron__photo {
-    background-image: url("../photo/jumbotron.jpeg");
+    background-image: url("photo/jumbotron.jpeg");
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -616,29 +616,29 @@ body {
         height: 23px;
         width: 35px; }
   .skills--react:before {
-    background-image: url("../logo/react.svg"); }
+    background-image: url("logo/react.svg"); }
   .skills--js:before {
-    background-image: url("../logo/javascript.svg"); }
+    background-image: url("logo/javascript.svg"); }
   .skills--jquery:before {
-    background-image: url("../logo/jquery.svg"); }
+    background-image: url("logo/jquery.svg"); }
   .skills--webpack:before {
-    background-image: url("../logo/webpack.svg"); }
+    background-image: url("logo/webpack.svg"); }
   .skills--mongodb:before {
-    background-image: url("../logo/mongodb.svg"); }
+    background-image: url("logo/mongodb.svg"); }
   .skills--git:before {
-    background-image: url("../logo/git-icon.svg"); }
+    background-image: url("logo/git-icon.svg"); }
   .skills--node:before {
-    background-image: url("../logo/nodejs-icon.svg"); }
+    background-image: url("logo/nodejs-icon.svg"); }
   .skills--html:before {
-    background-image: url("../logo/html-5.svg"); }
+    background-image: url("logo/html-5.svg"); }
   .skills--css:before {
-    background-image: url("../logo/css-3.svg"); }
+    background-image: url("logo/css-3.svg"); }
   .skills--sass:before {
-    background-image: url("../logo/sass.svg"); }
+    background-image: url("logo/sass.svg"); }
   .skills--bem:before {
-    background-image: url("../logo/bem.svg"); }
+    background-image: url("logo/bem.svg"); }
   .skills--bootstrap:before {
-    background-image: url("../logo/bootstrap.svg"); }
+    background-image: url("logo/bootstrap.svg"); }
 
 .projects {
   font-family: Nunito;
